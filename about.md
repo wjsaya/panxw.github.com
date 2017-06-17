@@ -6,7 +6,7 @@ Welcome to visit my blog!
 
 #### 1.Personal Info
 Name: wjyaya
-Gender: Male  
+Gender: Male
 City: Chengdu, China  
 Career: Ops
 
