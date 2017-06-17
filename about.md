@@ -16,6 +16,7 @@ GitHub: <https://github.com/wjsaya>
 
 
 #### 3.Contract
-Email: <mailto:wjsaya@163.com>  
-QQ: 2992433428
+Mail: wjsaya@163.com   
+QQ: 2992433428  
+
 
